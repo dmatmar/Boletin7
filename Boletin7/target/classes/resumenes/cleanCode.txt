@@ -1,0 +1,17 @@
+"Clean Code: A Handbook of Agile Software Craftsmanship" es un libro escrito por Robert C. Martin (Uncle Bob) que se centra en las prácticas de escritura de código limpio y eficiente en el desarrollo de software. Aquí tienes un resumen de los conceptos clave del libro:
+
+Legibilidad del Código: Martin enfatiza la importancia de escribir código que sea fácil de leer y entender. Sostiene que el código es leído muchas más veces de lo que se escribe, por lo que la legibilidad es fundamental.
+
+Nombres Significativos: Propone utilizar nombres descriptivos y significativos para variables, métodos y clases. Los nombres deben comunicar claramente la intención y el propósito de la entidad que representan.
+
+Funciones Pequeñas y Concisas: Aboga por funciones pequeñas y específicas que realicen una única tarea. Las funciones deben ser concisas y evitar hacer demasiadas cosas a la vez para facilitar la comprensión y el mantenimiento.
+
+Evitar la Duplicación: Martin destaca la importancia de eliminar la duplicación de código, ya que duplicar lógica puede llevar a errores y aumentar la dificultad de mantenimiento. Propone encapsular la lógica duplicada en funciones o clases reutilizables.
+
+Estructura y Organización del Código: Sugiere seguir principios de diseño sólidos y organizar el código de manera clara. Esto incluye la separación de responsabilidades y la creación de una estructura lógica y coherente.
+
+Comentarios y Documentación: Aborda el tema de los comentarios, señalando que el código debe ser lo suficientemente claro sin necesidad de comentarios excesivos. Argumenta que el código autoexplicativo es preferible a los comentarios, pero reconoce la necesidad de documentación en ciertos casos.
+
+Pruebas Unitarias: Martin destaca la importancia de las pruebas unitarias para garantizar la calidad del código y facilitar futuros cambios. Propone seguir prácticas de desarrollo orientadas a pruebas para mejorar la robustez y la confianza en el código.
+
+"Clean Code" proporciona pautas prácticas y principios fundamentales para desarrolladores de software que buscan mejorar la calidad y la mantenibilidad de su código, contribuyendo así a un desarrollo de software más ágil y eficiente.

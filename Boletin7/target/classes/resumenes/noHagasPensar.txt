@@ -1,0 +1,17 @@
+"No Me Hagas Pensar" es un libro escrito por Steve Krug, que se centra en la usabilidad y la experiencia del usuario en el diseño de sitios web.
+
+Principio de la Claridad: Krug aboga por la simplicidad y la claridad en el diseño web. Argumenta que los usuarios no deben esforzarse demasiado para entender un sitio y que las interfaces deben ser intuitivas y fáciles de navegar.
+
+Pruebas de Usabilidad: Propone realizar pruebas de usabilidad de manera regular. Sugiere que las pruebas con usuarios reales son esenciales para identificar problemas de usabilidad y mejorar la experiencia del usuario.
+
+"No me hagas pensar": Este es el principio central del libro. Krug enfatiza que un buen diseño web permite a los usuarios realizar tareas sin tener que pensar demasiado. La navegación y la interacción deben ser obvias y requerir un esfuerzo mínimo por parte del usuario.
+
+Escaneabilidad: Krug destaca la importancia de la escaneabilidad de las páginas web. Argumenta que los usuarios no leen en línea, sino que escanean la información en busca de lo que necesitan. Por lo tanto, el diseño debe facilitar el escaneo rápido.
+
+Importancia de las Etiquetas Claras: Propone que los enlaces y las opciones de navegación deben tener etiquetas claras y descriptivas. Los usuarios deben comprender de inmediato a dónde los llevará un enlace sin tener que adivinar.
+
+Evitar la Sobrecarga de Opciones: Sugiere que se debe evitar abrumar a los usuarios con demasiadas opciones. Un diseño más simple con decisiones claras ayuda a reducir la carga cognitiva y mejora la experiencia del usuario.
+
+Diseño Centrado en el Usuario: Enfatiza la importancia de diseñar pensando en el usuario. Krug argumenta que el diseño debe satisfacer las necesidades y expectativas del usuario, priorizando la facilidad de uso sobre las preferencias personales del diseñador.
+
+"No Me Hagas Pensar" es conocido por su enfoque práctico y directo sobre la usabilidad web, ofreciendo consejos concretos y aplicables para mejorar la experiencia del usuario y la efectividad de los sitios web.
